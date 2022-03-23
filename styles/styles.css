@@ -68,7 +68,6 @@ body{
 }
 /*anado distancia entre los items listados en el ul*/
 #menu ul li{
-
 	padding: 10px;
 }
 /*cambia color del background al pasar el mouse*/
@@ -82,12 +81,11 @@ a:visited{
 /*div contenido contains div SeccionesContenido*/
 #contenido{
 	float: right;
-	background-color: red;
 	width: 80%;
 }
 	/*Cajas colores div/class="seccionesContenido"*/
 	.seccionesContenido div{
-	padding: 5%;
+	padding: 5.2%;
 	}
 		/*cada caja de color div w/id w/h2 w/p*/
 		#c1{
