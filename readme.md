@@ -1,6 +1,6 @@
 # Actividad1.2
 
-##Material usado
+## Material usado
 - https://devcode.la/tutoriales/modelo-caja-css/
 - https://uxengineer.com/inline-block-elements-100-percent-width/
 - https://francescricart.com/elementos-en-linea-elementos-bloque-elementos-inline-block/
